@@ -11,8 +11,8 @@ Young self-taught software developer & hardware enthusiast from Germany. Turning
 
 
 > [!NOTE]
-> This is the secondary account for **[@henrymmey](https://github.com/henrymmey)**.
-> I use this profile primarily as a security backup for my organizations.
+> This is the official secondary account for [@henrymmey](https://github.com/henrymmey).  
+> Verified by [@henrymmey/PROOF.md](https://github.com/henrymmey/henrymmey/blob/main/PROOF.md).
 
 **Stats**
 
@@ -20,4 +20,4 @@ Young self-taught software developer & hardware enthusiast from Germany. Turning
 
 ---
 
-[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey)](https://henrymeyer.de/code-of-conduct/?utm_source=github&utm_medium=social&utm_campaign=profile&utm_content=readmemd)
+[![Static Badge](https://img.shields.io/badge/Code%20of%20Conduct-grey)](https://henrymeyer.de/code-of-conduct)
