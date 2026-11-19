@@ -4,7 +4,7 @@ Young self-taught software developer & hardware enthusiast from Germany. Turning
 
 > [!NOTE]
 > This is the official secondary account for [@henrymmey](https://github.com/henrymmey). Used as account backup for organizations.  
-> Verified by [@henrymmey/PROOF.md](https://github.com/henrymmey/henrymmey/blob/main/PROOF.md).
+> Verified by [henrymmey/henrymmey/PROOF.md](https://github.com/henrymmey/henrymmey/blob/main/PROOF.md).
 
 ## Stats
 
